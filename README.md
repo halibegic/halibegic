@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I’m Hasan 👋👨‍💻</h3>
+<h3 align="center">Hi there, I’m Hasan 👋</h3>
 
 <p align="center">
   <a href="https://halibegic.info">Blog</a> •
