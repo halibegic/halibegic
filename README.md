@@ -3,6 +3,7 @@
 - In love with design and photography
 - Building stuff since 2008
 
+
 ### Connect with me:
 
 [<img align="left" alt="halibegic.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -10,6 +11,7 @@
 [<img align="left" alt="halibegic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="halibegic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="halibegic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 ### Languages and Tools:
 
